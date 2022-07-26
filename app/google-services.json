@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873713729305",
+    "project_id": "loginkotlin-8462a",
+    "storage_bucket": "loginkotlin-8462a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873713729305:android:84725840c7fd592c3d0f88",
+        "android_client_info": {
+          "package_name": "com.learning.loginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873713729305-0sjhuo0qnddkouvhnqkmotd37aecid76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.loginkotlin",
+            "certificate_hash": "51d6d8e04f0ac0811105951c3715eeb3247c1903"
+          }
+        },
+        {
+          "client_id": "873713729305-7ii60v4b1licu8edpbatqo79vp1p6rag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Oqociw6aR0GrC7FVnmI9zaHgJSD8wOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873713729305-7ii60v4b1licu8edpbatqo79vp1p6rag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
